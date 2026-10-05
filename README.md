@@ -35,6 +35,7 @@ The layouts scale to the Browser Source size. The supplied Nori symbol is a rast
 
 ## Watch the actual walkthroughs
 
+- [Install the free Nori graphics in OBS, step by step](https://www.youtube.com/watch?v=5h-1cqV0lFc)
 - [Check your OBS canvas, output, and recorded file](https://www.youtube.com/watch?v=KlY-BPqA-UM)
 - [Nori's OBS stream rehearsal](https://www.youtube.com/watch?v=ErKqDCdBI7M)
 - [Building the OBS controls](https://www.youtube.com/watch?v=1WJphsXsumo)
